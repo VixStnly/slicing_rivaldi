@@ -1,0 +1,231 @@
+body{
+    
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color:  #0D0F10;
+}
+nav{
+ 
+    text-decoration: none;
+    padding-left: 100px;
+    background-color: rgb(255, 255, 255) ;
+    text-align: center;
+    display: flex;
+    background-repeat: no-repeat;
+    
+}
+
+nav ul{
+    padding-left: 500px;
+}
+nav a{
+    margin-left: 70px;
+    text-decoration: none;
+    padding-left:;
+    padding-right: ;
+    color: black;
+}
+
+header{
+    background-color: #F0F3FF
+}
+.container {
+    padding-top: 100px;
+    background-color: ;
+    display: flex;
+    width: 100%;
+}
+
+.left-side {
+    padding-top: ;
+    flex: 1;
+   
+    padding: 20px;
+    padding-right: 200px;
+    position: relative;
+}
+.left-side h1{
+    font-family: 'Poppins', sans-serif;
+    display: contents;
+    padding-top: px;
+    font-size: 50px;
+    padding-left: 140px;
+}
+.left-side p{
+    font-family: 'Poppins', sans-serif;
+    padding-top:;
+   color:  #B2B3BA;
+}
+
+.right-side {
+    
+    flex:1;
+    display: flex;
+    justify-content: left;
+    align-items: ;
+    padding-right: 
+}
+
+.btn {
+    padding-left: 140px;
+}
+.btn button{
+    
+    background-color: blue;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.btn button a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.btn button img{
+    
+    padding-top: 10px;
+    padding-left: 10px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.right-side img{
+    text-decoration: none;
+    padding-top: px;
+    width: 350px;
+    padding-right:;
+    padding-bottom: 150px;
+}
+.service{
+    display: contents;
+    padding-top: 50px;
+    background-color:#FACB3B;
+    display: flex;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.service img{
+    width: 50px;
+    text-align: center;
+}
+.service h1{
+    font-size: 20px;
+}
+.postingan{
+    padding-top: 50px;
+    display: flex;
+    padding-left: 200px;
+}
+.postingan h1{
+    font-size: 20px;
+    padding-right: 250px;
+}
+.postingan a{
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.PostCard{
+    margin: 1;
+    display: flex;
+    padding-left: 100px;
+
+            margin-bottom: 20px;
+    
+}
+.PostCard .card {
+    width: 18rem;
+    margin-right: 15px; /* Spasi antara setiap card di dalam group */
+}
+.postingan a{
+    text-decoration: none;
+    color: black;
+}
+.card .card-title{
+    color:blue;
+    font-size: 15px;
+}
+.card-text {
+    font-weight: bold;
+}
+    
+.member{
+    padding-left: 150px;
+    text-align: center;
+    background-color:#FFF0E5;
+    display: flex;
+}
+.member img{
+    padding-top: 40px;
+    padding-left: 80px;
+    width: 250px;
+    padding-bottom: 40px;
+    padding-right: 50px;
+}
+.member h1{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 70px;
+    padding-left: 0px;
+}
+
+.btnm{
+    padding-left: 110px;
+    padding-right: 200px;
+    padding-top: 80px;
+}
+.kategori{
+    font-size: 10px;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-align-last: center;
+}
+.cardkt {
+    padding-top: 40px;
+    padding-left: 200px;
+    display: flex;
+    margin-right: -15px; /* Menyesuaikan margin kanan untuk menyeimbangkan spasi */
+}
+
+.cardd {
+    width: 15rem;
+    margin-right: 15px; /* Menambahkan margin antar card */
+}
+
+.card-bodyy {
+    display: flex;
+}
+
+.card-titlee {
+    padding-left: 2px;
+}
+.endcardd{
+    text-align: center;
+    text-decoration: none;
+}
+.footer{
+    padding-top: 50px;
+    background-color: #0D0F10;
+    display: flex;
+}
+.footer .kiri{
+    padding-left: 100px;
+    color: white;
+}
+.footer .resource{
+    padding-left: 100px;
+    color: white;
+}
+.footer .suport{
+    padding-left: 200px;
+    color: white;
+}
+.footer .download {
+    padding-left: 100px;
+   color:white;
+}
